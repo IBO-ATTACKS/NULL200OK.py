@@ -10,7 +10,7 @@ Professional subdomain discovery tool with passive/active reconnaissance.
 ========================================================================
 ## Installation
 ```bash
-git clone https://github.com/IBO-ATTACKS/NULL200OK.git
+git clone  https://github.com/IBO-ATTACKS/NULL200OK.py.git 
 cd NULL200OK
 pip install -r requirements.txt
 =========================================================================
