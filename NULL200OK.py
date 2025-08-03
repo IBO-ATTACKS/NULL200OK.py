@@ -355,7 +355,7 @@ def main():
     print("Unauthorized scanning of networks/systems is ILLEGAL and may result in criminal charges.")
     print("The creator assumes NO LIABILITY for misuse of this tool.")
     print("="*60)
-    print("NULL200OK Subdomain Scanner v1.0 | github.com/YOUR_USERNAME/NULL200OK")
+    print("NULL200OK Subdomain Scanner v1.0 | github.com/IBO-ATTACKS/NULL200OK")
     print("="*60 + "\n")
     
     # Start scan with thread count
@@ -368,4 +368,5 @@ def main():
     print(f"[*] Scan completed in {duration:.2f} seconds")
 
 if __name__ == "__main__":
+
     main()
